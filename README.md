@@ -6,10 +6,11 @@
 - 💬 Blog: https://blog.gm7.org/
 - 🤔 不忘初心，方得始终
 - 🤔 纸上得来终觉浅，绝知此事要躬行
+<!--
 - 💯 项目
 <a href="https://github.com/damit5/damit5.github.io">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=damit5&repo=damit5.github.io&show_owner=true" />
-</a>
+</a>-->
 
 <!--
 **damit5/damit5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
